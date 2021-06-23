@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and robotics
 - 🌱 I’m currently learning javascript programming
 - 💞️ I’m looking to collaborate on program
-- 📫 How to reach me Brazil
+- 📫 How to reach me i live in Brazil
 - 📫 I speak Portuguese from Brazil
 
 
